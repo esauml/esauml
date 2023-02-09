@@ -52,6 +52,7 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=esauml&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Esau's's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esauml&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-[![Esau's github activity graph](https://activity-graph.herokuapp.com/graph?username=esauml&custom_title=My%20Activity&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Esau's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=esauml&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
