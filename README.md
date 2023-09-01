@@ -3,16 +3,12 @@
 </p>
 
 <div align='center'>
-  <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">
   <p align='center'>
     <a href="https://www.linkedin.com/in/esaum/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
     <a href="https://twitter.com/esauml_"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
     <a href="mailto:esaumtz4722@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
   </p>
 </div>
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=esauml.visitor-badge)
-
 
 ## About me
 
@@ -45,14 +41,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-
 ## Github Stats
 
-
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=esauml&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Esau's's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esauml&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-
-[![Esau's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=esauml&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
