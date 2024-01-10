@@ -12,9 +12,9 @@
 
 ## About me
 
-* 🎨 Software engineer who loves React. 
+* 🎨 Software engineer, very enthusiastic of learning new cool stuff
 
-* 🎁 Open source enthusiast. Thanks to all the open source contributors!
+* 🎁 Open source enthusiast. Thanks to all the open-source contributors!
 
 * 🔥 I really love the thrill of making what I want possible!
 
